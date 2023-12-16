@@ -61,5 +61,8 @@ Make sure you have the following installed before setting up the project:
 * Score display: Show the notes played on a musical staff for learning and practice purposes.
 * More song options: Add additional pre-recorded songs or enable user-uploaded MIDI files for playing.
 
-
+#### Blog 
+* https://laiqali.blogspot.com/2023/12/piano-desktop-app-imagine-ivory-keys.html
+#### Youtube demo
+* https://youtu.be/Knbx0GQpQoI
 
